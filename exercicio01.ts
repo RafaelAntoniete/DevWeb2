@@ -7,5 +7,5 @@ namespace exercicio01 {
 
     let result: number;
     result = n1 + n2 + n3 + n4;
-    console.log (`O resultado da soma`)
+    console.log (`O resultado da soma dos números ${n1}, ${n2}, ${n3} e ${n4} é igual a: ${result}`)
 }
